@@ -6,8 +6,8 @@ from telegram.ext import (
 )
 
 # Set your OpenAI API Key and Telegram Bot Token
-OPENAI_API_KEY = "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"
-TELEGRAM_BOT_TOKEN = "7816276179:AAHqO3aSGAXEB_o-HD37Mq4KkVvFwZY7Y20"
+OPENAI_API_KEY = "add here"
+TELEGRAM_BOT_TOKEN = "add here"
 
 # Initialize OpenAI API
 openai.api_key = OPENAI_API_KEY
